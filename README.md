@@ -64,6 +64,10 @@ To run the unit tests you will have to install [PyTorch](https://pytorch.org/), 
 python -m pytest
 ```
 
+### Lectures
+
+The `lectures/` directory contains the two micrograd lecture notebooks from Andrej Karpathy's [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) series, which walk through building this engine from scratch.
+
 ### License
 
 MIT
